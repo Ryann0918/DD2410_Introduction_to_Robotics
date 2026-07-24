@@ -34,7 +34,7 @@ git clone https://github.com/kth-ros-pkg/Robotics_intro.git
 
 Clone this project (recommended for updates):
 ```bash
-git clone https://github.com/jackeygle/DD2410-Introduction-to-Robotics.git
+git clone https://github.com/Ryann0918/DD2410_Introduction_to_Robotics.git
 ```
 
 > **Tip:** You can also download the zip file, but using git is recommended for receiving updates and bug fixes.
